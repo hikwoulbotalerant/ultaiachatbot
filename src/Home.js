@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import { Mistral } from '@mistralai/mistralai';
 import { Container, Row, Col, Form, Button, Card, Spinner } from 'react-bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-const AichatBot = () => {
+const App = () => {
   const [userMessage, setUserMessage] = useState('');
   const [chatHistory, setChatHistory] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -112,4 +113,4 @@ const AichatBot = () => {
   );
 };
 
-export default AichatBot;
+export default App;
