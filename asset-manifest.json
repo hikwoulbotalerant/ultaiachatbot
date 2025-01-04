@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ultaiachatbot/static/css/main.ca67ef22.css",
-    "main.js": "/ultaiachatbot/static/js/main.3ed7f041.js",
+    "main.js": "/ultaiachatbot/static/js/main.d182b907.js",
     "static/js/488.9b503514.chunk.js": "/ultaiachatbot/static/js/488.9b503514.chunk.js",
     "index.html": "/ultaiachatbot/index.html",
     "main.ca67ef22.css.map": "/ultaiachatbot/static/css/main.ca67ef22.css.map",
-    "main.3ed7f041.js.map": "/ultaiachatbot/static/js/main.3ed7f041.js.map",
+    "main.d182b907.js.map": "/ultaiachatbot/static/js/main.d182b907.js.map",
     "488.9b503514.chunk.js.map": "/ultaiachatbot/static/js/488.9b503514.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
-    "static/js/main.3ed7f041.js"
+    "static/js/main.d182b907.js"
   ]
 }
